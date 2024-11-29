@@ -1,2 +1,2 @@
 # EDA
-Exploratory Data Analyst
+Exploratory Data Analysis
