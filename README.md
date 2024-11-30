@@ -1,2 +1,2 @@
 # EDA
-Exploratory Data Analysis New Portfolio
+Exploratory Data Analysis Portfolio
